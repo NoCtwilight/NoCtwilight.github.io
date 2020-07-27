@@ -1,0 +1,216 @@
+/* 样式 start */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: '微软雅黑';
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: "HuJingLi";
+    src: url(../fonts/HuJingLi.ttf);
+}
+@font-face {
+    font-family: "LiXuKe";
+    src: url(../fonts/李旭科书法1.4.ttf);
+}
+body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd {
+    margin: 0px;
+    padding: 0px;
+    font: normal 100%;
+    font-weight: normal;
+}
+img {
+    border-style: none;
+}
+li {
+    list-style: none;
+}
+a {
+    text-decoration: none
+}
+html, body {
+    background: #fff;
+    height: 100%;
+}
+textarea {
+    -webkit-appearance: none;
+}
+/* 样式 end */
+
+
+.inner-center {
+    width: 75%;
+    margin: 0 auto;
+}
+.main {
+    padding-top: 2%;
+    min-height: 100%;
+}
+.content-inside{
+    padding-bottom: 76px;
+}
+.footer {
+    height: 60px;
+    text-align: center;
+    margin-top: -60px; 
+}
+.footer a, a:link, a:hover, a:visited, a:active {
+    color: rgba(49, 70, 89, 1);
+}
+
+
+/*内容区域*/
+/* ========== 样式定义 start ========== */
+
+/* 顶部诗句格式 */
+.nav-content {
+    overflow: hidden;
+}
+.toppoem {
+    color: #0f1423; /*;*/
+    font-size: 40px;
+    text-shadow:4px 4px 4px #681752;
+    margin: 35px;
+    text-align: center;
+    font-family: 'HuJingLi', '宋体';
+}
+/* 页内定位标签格式 */
+.headindex {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 15px 0 15px 0px;
+    text-align: center;
+    font-size: 36px;
+    color: MidnightBlue;
+    text-shadow:4px 4px 4px CornflowerBlue;
+    line-height: 36px;
+    font-weight: bold;
+    font-family: 'LiXuKe', '宋体';
+}
+
+/* 菜单页内定位 */
+.menu-list {
+    width: 100%;
+    float: left;
+    margin-top: 30px;
+    /*position: fixed;*/
+}
+.menu-list-con {
+    overflow: hidden;
+    float:none;
+    margin: 0 auto;
+}
+.menu-list-con li {
+    box-sizing: border-box;
+    padding: 2px 2px;
+    width: 12.5%;  /*div等分成8部分*/
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.menu-list-con li a{
+    display: block;
+    background: #FFF8DC;
+    color: Indigo;
+    font-size: 16px;
+    text-align: center;
+    line-height: 44px;
+    transition: all 0.2s;
+    border-radius: 4px;
+}
+.menu-list-con li a:hover {
+    background: Gold 100%;
+    font-size: 18px;
+    font-weight: bold;
+    color: Crimson;
+    text-shadow: 3px 3px 3px LavenderBlush;
+}
+
+/* 菜单页内定位 */
+.navi-list {
+    width: 100%;
+    float: left;
+    margin-top: 30px;
+}
+.navi-list:nth-of-type(3n) {
+    padding-right: 0;
+}
+.navi-list-tit {
+    box-sizing: border-box;  /*以IE盒子模型的width为标准*/
+    font-size: 24px;
+    text-align: center;
+    line-height: 25px;
+    color: #7367F0;
+    font-weight: bold;
+    width: 100%;  /* div等分 */
+    margin: 10px 0 10px 0px;
+}
+.navi-list-tit span{
+    font-weight: normal;
+}
+.navi-list-con {
+    overflow: hidden;
+    margin: 0 auto;
+    box-shadow: 5px 5px 5px Lavender;
+}
+.navi-list-con li {
+    box-sizing: border-box;
+    padding: 2px 2px;  /*设置div的内边距*/
+    width: 16.6%;  /*div等分成6部分*/
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.navi-list-con li a{
+    display: block;
+    background: AliceBlue;
+    color:#35495E;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 12px;
+    line-height: 44px;
+    transition: all 0.2s;
+    border-radius: 4px;
+}
+.navi-list-con li a img{
+    height: 18px;
+    margin: auto 8px;
+}
+.navi-list-con li a:hover {
+    background: GhostWhite 100%;
+    font-size: 18px;
+    font-weight: bold;
+    color: #F44336;
+    text-shadow:2px 2px 2px Orange;
+}
+.navi-list-con li a:hover img{
+    height: 22px;
+    margin: auto 8px;
+}
+/* ========== 样式定义 end ========== */
+
+/* 手机自适应 */
+@media screen and (max-device-width: 768px) {
+    .menu-list-con li {
+        width: 33.3%; /*div等分成3部分*/
+    }
+    .menu-list-con li a{
+        padding-left: 0.7em;
+    }
+    .navi-list-con li {
+        width: 33.3%; /*div等分成3部分*/
+    }
+    .navi-list-con li a{
+        padding-left: 0.7em;
+    }
+    .menu-list-tit span{
+        display: none;
+    }
+    .navi-list-tit span{
+        display: none;
+    }
+}

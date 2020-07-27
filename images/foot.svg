@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 foot.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.9712in" height="5.76953in"
+		viewBox="0 0 501.926 415.406" xml:space="preserve" color-interpolation-filters="sRGB" class="st6">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#fec000;fill-opacity:0.5;filter:url(#filter_16.666666030884);stroke:none;stroke-linecap:butt}
+		.st3 {fill:url(#grad0-7);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st4 {fill:#cbffff;fill-opacity:0.25;filter:url(#filter_16.666666030884);stroke:none;stroke-linecap:butt}
+		.st5 {fill:url(#grad0-14);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-7" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(35 0.5 0.5)">
+			<stop offset="0" stop-color="#ff0000" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffc000" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-14" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(45 0.5 0.5)">
+			<stop offset="0" stop-color="#006eff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#00eba0" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_16.666666030884">
+			<feGaussianBlur stdDeviation="16.666666030884"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="shape130-1" v:mID="130" v:groupContext="shape" transform="translate(461.225,-24.8403) rotate(75)">
+			<title>工作表.130</title>
+			<g id="shadow130-2" v:groupContext="shadow" v:shadowOffsetX="17.6777" v:shadowOffsetY="-17.6777" v:shadowType="1"
+					transform="matrix(1,0,0,1,21.6506,-12.5)" class="st1">
+				<path d="M50.26 73.7 C5.9 111.43 0 178.61 37.05 223.75 L152.62 364.33 C188.65 408.74 253.83 415.41 298.08 379.46
+							 C298.77 378.93 299.42 378.36 300.11 377.79 C344.47 340.09 350.37 272.92 313.33 227.78 L197.75 87.16
+							 C161.73 42.79 96.54 36 52.17 72.03 C51.48 72.6 50.95 73.17 50.26 73.7 Z" class="st2"/>
+			</g>
+			<path d="M50.26 73.7 C5.9 111.43 0 178.61 37.05 223.75 L152.62 364.33 C188.65 408.74 253.83 415.41 298.08 379.46 C298.77
+						 378.93 299.42 378.36 300.11 377.79 C344.47 340.09 350.37 272.92 313.33 227.78 L197.75 87.16 C161.73 42.79
+						 96.54 36 52.17 72.03 C51.48 72.6 50.95 73.17 50.26 73.7 Z" class="st3"/>
+		</g>
+		<g id="shape128-8" v:mID="128" v:groupContext="shape" transform="translate(0.858984,-18)">
+			<title>工作表.2</title>
+			<g id="shadow128-9" v:groupContext="shadow" v:shadowOffsetX="20.4788" v:shadowOffsetY="-14.3394" v:shadowType="1"
+					transform="matrix(1,0,0,1,20.4788,14.3394)" class="st1">
+				<path d="M50.26 73.7 C5.9 111.43 0 178.61 37.05 223.75 L152.62 364.33 C188.65 408.74 253.83 415.41 298.08 379.46
+							 C298.77 378.93 299.42 378.36 300.11 377.79 C344.47 340.09 350.37 272.92 313.33 227.78 L197.75 87.16
+							 C161.73 42.79 96.54 36 52.17 72.03 C51.48 72.6 50.95 73.17 50.26 73.7 Z" class="st4"/>
+			</g>
+			<path d="M50.26 73.7 C5.9 111.43 0 178.61 37.05 223.75 L152.62 364.33 C188.65 408.74 253.83 415.41 298.08 379.46 C298.77
+						 378.93 299.42 378.36 300.11 377.79 C344.47 340.09 350.37 272.92 313.33 227.78 L197.75 87.16 C161.73 42.79
+						 96.54 36 52.17 72.03 C51.48 72.6 50.95 73.17 50.26 73.7 Z" class="st5"/>
+		</g>
+	</g>
+</svg>

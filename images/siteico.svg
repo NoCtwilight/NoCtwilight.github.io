@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 siteico.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="6.56417in" height="6.56417in"
+		viewBox="0 0 472.62 472.62" xml:space="preserve" color-interpolation-filters="sRGB" class="st3">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-5);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st2 {fill:url(#grad0-9);stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-5" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#006eff" stop-opacity="1"/>
+			<stop offset="1" stop-color="#00eba0" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-9" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(90 0.5 0.5)">
+			<stop offset="0" stop-color="#ff0000" stop-opacity="1"/>
+			<stop offset="1" stop-color="#ffc000" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="9"
+				v:shadowOffsetY="-9"/>
+		<g id="group4-1" transform="translate(18.75,-18.75)" v:mID="4" v:groupContext="group">
+			<title>工作表.4</title>
+			<g id="shape2-2" v:mID="2" v:groupContext="shape">
+				<title>工作表.2</title>
+				<path d="M218.6 309.98 L333.95 407.47 L319.99 472.62 L218.6 399.79 L117.21 472.62 L103.25 407.47 L218.6 309.98 ZM369.77
+							 139.42 L435.12 153.38 L362.33 254.82 L435.12 356.28 L369.77 370.48 L272.32 254.82 L369.77 139.42 ZM65.35
+							 139.42 L162.8 254.82 L65.35 370.48 L0 356.28 L72.79 254.82 L0 153.38 L65.35 139.42 ZM217.56 227.87 A27.195
+							 27.195 0 0 1 217.56 282.26 A27.195 27.195 0 1 1 217.56 227.87 ZM319.99 37.5 L333.95 102.89 L218.6 200.38
+							 L103.26 102.89 L117.21 37.5 L218.6 110.33 L320 37.5 L319.99 37.5 Z" class="st1"/>
+			</g>
+			<g id="shape3-6" v:mID="3" v:groupContext="shape" transform="translate(185.493,-185.493)">
+				<title>圆形.2145</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 440.55 A32.067 32.067 0 0 1 64.13 440.55 A32.067 32.067 0 1 1 0 440.55 Z" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>
