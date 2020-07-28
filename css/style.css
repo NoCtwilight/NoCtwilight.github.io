@@ -139,13 +139,13 @@ textarea {
     padding-right: 0;
 }
 .navi-list-tit {
-    box-sizing: border-box;  /*以IE盒子模型的width为标准*/
+    box-sizing: border-box;
     font-size: 24px;
     text-align: center;
     line-height: 25px;
     color: #7367F0;
     font-weight: bold;
-    width: 100%;  /* div等分 */
+    width: 100%;
     margin: 10px 0 10px 0px;
 }
 .navi-list-tit span{
@@ -158,7 +158,7 @@ textarea {
 }
 .navi-list-con li {
     box-sizing: border-box;
-    padding: 2px 2px;  /*设置div的内边距*/
+    padding: 2px 2px;  /*div的内边距*/
     width: 16.6%;  /*div等分成6部分*/
     float: left;
     overflow: hidden;
@@ -181,7 +181,7 @@ textarea {
     margin: auto 8px;
 }
 .navi-list-con li a:hover {
-    background: GhostWhite 100%;
+    background: #eef7f2 100%;
     font-size: 18px;
     font-weight: bold;
     color: #F44336;
