@@ -196,13 +196,13 @@ textarea {
 /* 手机自适应 */
 @media screen and (max-device-width: 768px) {
     .menu-list-con li {
-        width: 33.3%; /*div等分成3部分*/
+        width: 50%;  /* div等分成2部分 */
     }
     .menu-list-con li a{
         padding-left: 0.7em;
     }
     .navi-list-con li {
-        width: 33.3%; /*div等分成3部分*/
+        width: 50%;  /* div等分成2部分 */
     }
     .navi-list-con li a{
         padding-left: 0.7em;
