@@ -71,7 +71,7 @@ textarea {
     text-shadow:4px 4px 4px #681752;
     margin: 35px;
     text-align: center;
-    font-family: '仿宋', 'HuJingLi';
+    font-family: 'HuJingLi', '仿宋';
 }
 /* 页内定位标签格式 */
 .headindex {
