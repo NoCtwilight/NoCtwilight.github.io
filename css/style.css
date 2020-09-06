@@ -11,10 +11,7 @@
     font-family: "HuJingLi";
     src: url(../fonts/HuJingLi.ttf);
 }
-@font-face {
-    font-family: "LiXuKe";
-    src: url(../fonts/李旭科书法1.4.ttf);
-}
+
 body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd {
     margin: 0px;
     padding: 0px;
@@ -74,7 +71,7 @@ textarea {
     text-shadow:4px 4px 4px #681752;
     margin: 35px;
     text-align: center;
-    font-family: 'HuJingLi', '宋体';
+    font-family: '仿宋', 'HuJingLi';
 }
 /* 页内定位标签格式 */
 .headindex {
@@ -87,7 +84,7 @@ textarea {
     text-shadow:4px 4px 4px CornflowerBlue;
     line-height: 36px;
     font-weight: bold;
-    font-family: 'LiXuKe', '宋体';
+    font-family: '微软雅黑';
 }
 
 /* 菜单页内定位 */
